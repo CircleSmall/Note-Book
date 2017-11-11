@@ -10,6 +10,8 @@
 
 
  - [有道两个月总结](https://github.com/CircleSmall/Note-Book/blob/master/ppt/%E6%9C%89%E9%81%93%E4%B8%A4%E4%B8%AA%E6%9C%88%E6%80%BB%E7%BB%93.ppt) (.ppt 文件)
+    - 回顾了自己以前的工作
+    - 两个月内的收获
  - [Node Stream](https://github.com/CircleSmall/Note-Book/blob/master/ppt/Node%20Stream%20%E4%BB%8B%E7%BB%8D.ppt) (.ppt 文件)
  - [uglify与AST](https://github.com/CircleSmall/Note-Book/blob/master/ppt/Uglify%20%E4%B8%8E%20AST.ppt) （.ppt文件）
  - [书写更快、内存更高效的js](https://github.com/CircleSmall/Note-Book/blob/master/ppt/%E4%B9%A6%E5%86%99%E6%9B%B4%E5%BF%AB%E3%80%81%E5%86%85%E5%AD%98%E6%9B%B4%E9%AB%98%E6%95%88%E7%9A%84js.ppt) (.ppt 文件)
@@ -22,6 +24,7 @@
 - [命令行词典](https://drive.google.com/open?id=16MLi90GCwWaur9Mx2z7vj5HTMhZvP555an4Nqq2P3ZI) (Google Doc)
 - [杂谈](https://drive.google.com/open?id=155-pYz6_hmzQVHX89uWvwaxuiZ8By1PrpLWBvrqIWI4) (Google Doc)
 - [http 缓存相关](https://drive.google.com/open?id=1PLe0oFIhHLVTj7kD6sjvMqVNWrcNRnhivAW77URzLwY) (Google Doc)
+- [UEditor](https://drive.google.com/open?id=1C_AW6E61BwQ4eRLvr9Kd5uVbpcoCXB7gkvRxA0wuhjE) (Google Doc)
 - [script 标签的async](http://note.youdao.com/noteshare?id=57026e9366fa9f8b4666550b96a1550e) (笔记链接)
 
 2017 
