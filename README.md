@@ -38,3 +38,4 @@
 - [react vs vue](http://note.youdao.com/noteshare?id=b15d77e09157f9757b7e104948714d3e) (笔记链接)
 - [research google analytics](http://note.youdao.com/noteshare?id=e90a92e5cf5fe3adb6a41a42e53a30fe) (笔记链接)
 - [一个vue component 的bug](http://note.youdao.com/noteshare?id=b93025229067f3a6fc2e225d57125769) (笔记链接)
+- [关于vdomm模板](http://note.youdao.com/noteshare?id=e262e64182783fb03d05095cb8e9d00d) (笔记链接)
